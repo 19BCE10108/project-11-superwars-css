@@ -1,4 +1,14 @@
-.footer{
-  margin-left : 80px;
-  font-size : 18px;
+body{
+    background-color: lightgray;
+}
+
+.headrow{
+    text-align: center;
+}
+
+#submit{
+    background-color: lightgreen;
+}
+#cancel{
+    background-color: salmon;
 }
